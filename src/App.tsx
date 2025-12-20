@@ -390,7 +390,6 @@ function App() {
         <header className="app-header">
           <p className="app-badge">FORTUNE for YOU</p>
           <h1 className="app-title">
-            あなただけの
             <span className="app-title-emphasis"> 星座ベース占い </span>
           </h1>
           <p className="app-subtitle">
